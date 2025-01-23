@@ -1,0 +1,12 @@
+Node,Customer DB,Auth Service,API,Product Service,Product DB,Order Service,Order DB,Shipping Cost Service,Caching Service,www,Website
+Customer DB,0,1,0,0,0,0,0,0,0,0,0
+Auth Service,0,0,1,0,0,0,0,0,0,0,0
+API,0,0,0,0,0,0,0,0,0,1,0
+Product Service,0,0,1,0,0,1,0,0,0,0,0
+Product DB,0,0,0,1,0,0,0,0,0,0,0
+Order Service,0,0,0,0,0,0,1,0,1,0,0
+Order DB,0,0,0,0,0,0,0,0,0,0,0
+Shipping Cost Service,0,0,0,1,0,0,0,0,0,0,0
+Caching Service,0,0,0,0,0,0,0,0,0,0,0
+www,0,0,0,0,0,0,0,0,0,0,1
+Website,0,0,0,0,0,0,0,0,0,0,0
